@@ -1,2 +1,3 @@
-# mo434
-# mo434
+# MO434 - Deep Learning - IC Unicamp
+The notebooks in this repository were made during the neural networks discipline. The main problem to be solved was the identification of fish types in photos available on [kaggle](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset).
+To do so, I trained, validated and tested convolutional neural networks with different architectures; compared with results from pre-trained NN, such as VGG and ResNet; tried an approach with contrastive learning; and used the [GradCam](https://arxiv.org/abs/1610.02391) method to understand the NN attention (for me, the coolest part of it).
